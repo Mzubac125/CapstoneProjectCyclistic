@@ -1,4 +1,4 @@
-This is a case study for one of Google's Data Analytics Professional Certificate capstone projects.
+This is a case study for one of Google's Data Analytics Professional Certificate capstone projects, you can find the full details in the CaseStudyScenario.pdf file above.
 
 Cyclistic is a fictional bike sharing company based and operating in Chicago.
 
